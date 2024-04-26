@@ -10,8 +10,8 @@ app = FastAPI()
 
 # Generate random product names
 def generate_recommendation_name():
-    adjectives = ["Awesome", "Fantastic", "Stylish", "Trendy", "Cozy"]
-    nouns = ["Shirt", "Hat", "Watch", "Shoes", "Bag"]
+    adjectives = ["Awesome", "Fantastic", "Stylish", "Trendy", "Cozy", "Smarmy"]
+    nouns = ["Shirt", "Hat", "Watch", "Shoes", "Bag", "Buffalo Cape"]
     return f"{adjectives[randint(0, len(adjectives)-1)]} {nouns[randint(0, len(nouns)-1)]}"
 
 
