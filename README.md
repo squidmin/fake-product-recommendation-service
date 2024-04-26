@@ -1,6 +1,6 @@
 # fake-product-recommendation-service
 
-Companion repo for the `RecommendationController` in the [`fake-product-recommendation-service`](https://github.com/squidmin/fake-product-recommendation-service) project.\
+Companion repo for the `RecommendationController` in the [`java-spring-reactive-web-reference`](https://github.com/squidmin/java-spring-reactive-web-reference) project.\
 Generates ✨fake product data✨.
 
 ## Installation
