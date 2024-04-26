@@ -1,6 +1,6 @@
 # fake-product-recommendation-service
 
-Companion repo for the `RecommendationController` in the `fake-product-recommendation-service` project.\
+Companion repo for the `RecommendationController` in the [`fake-product-recommendation-service`](https://github.com/squidmin/fake-product-recommendation-service) project.\
 Generates ✨fake product data✨.
 
 ## Installation
